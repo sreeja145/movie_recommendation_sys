@@ -29,4 +29,7 @@ Data -> Preprocessing -> Model Building -> Website -> deploy
 findout similarity between vectors using cosine similarity
 ## recommended movies
 A function defined to get the top 5 similar movies based on a selected movie.
+## Implemented in streamlit. http://localhost:8501/
+**app.py has the code for streamlit implementation 
+**movie-recommender-system contains code for implementation.
 
