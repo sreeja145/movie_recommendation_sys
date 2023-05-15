@@ -5,6 +5,7 @@ Recommendation system predicts relevant items based on previous data like produc
 1. Content based filtering : relevant ites are shown based on our context of previous searched items by the user.
 2. Colloborative based filtering : recommending the new items to users based on interest and preference of similar users is basically colloborative-based filtering.
 ex: amazon recommends saying "customers who bought this also bought these ".
+## This project is based on content based filtering.
 
 ## Project Flow
 Data -> Preprocessing -> Model Building -> Website -> deploy 
