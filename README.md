@@ -32,5 +32,8 @@ findout similarity between vectors using cosine similarity
 A function defined to get the top 5 similar movies based on a selected movie.
 ## Implemented in streamlit. http://localhost:8501/
 **app.py has the code for streamlit implementation 
-**movie-recommender-system contains code for implementation.
+** movie-recommender-system contains code for model building
+![image](https://github.com/sreeja145/movie_recommendation_sys/assets/73514771/f8deeb61-630c-45e3-9039-a3c800395faa)
+
+
 
